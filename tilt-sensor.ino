@@ -1,7 +1,7 @@
     /* Better Debouncer
      * 
      * This debouncing circuit is more rugged, and will work with tilt switches!
-     *
+     * https://learn.adafruit.com/tilt-sensor/using-a-tilt-sensor
      * http://www.ladyada.net/learn/sensor/tilt.html
      */
      
