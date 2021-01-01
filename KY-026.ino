@@ -1,3 +1,4 @@
+// https://arduinomodules.info/ky-026-flame-sensor-module/
 int led = 13; // define the LED pin
 int digitalPin = 2; // KY-026 digital interface
 int analogPin = A0; // KY-026 analog interface
